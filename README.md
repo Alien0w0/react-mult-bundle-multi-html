@@ -1,3 +1,9 @@
+#### issue
+Routes do not load components as indentded.
+
+#### start
+`npm i; npm start`
+
 routes - 
 ```
 src/components/admin/routes.jsx
