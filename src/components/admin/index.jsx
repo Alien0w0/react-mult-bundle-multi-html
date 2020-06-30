@@ -9,7 +9,7 @@ import Routes from './routes';
 window.React = React;
 render(
   <>
-    <Router>
+    <Router basename="/admin">
         <Routes />
     </Router>
   </>,
