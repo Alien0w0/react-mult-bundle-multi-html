@@ -2,7 +2,7 @@
 Routes do not load components as intended.
 
 #### start
-`npm i; npm start`
+`git clone https://github.com/ab159ab/react-mult-bundle-multi-html.git; npm i; npm start`
 
 routes - 
 ```
