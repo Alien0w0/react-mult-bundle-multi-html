@@ -1,5 +1,5 @@
 #### issue
-Routes do not load components as indentded.
+Routes do not load components as intended.
 
 #### start
 `npm i; npm start`
