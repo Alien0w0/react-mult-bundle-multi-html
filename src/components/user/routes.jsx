@@ -4,8 +4,8 @@ import React from 'react';
 
 const routes = () => (
   <Switch>
-      <Route exact path="/" component={() => <div>user root</div>} />
-      <Route exact path="/userhome" component={() => <h1>user home</h1>} />
+      <Route exact path="/" render={() => <div>user root</div>} />
+      <Route exact path="/userhome" render={() => <h1>user home</h1>} />
   </Switch>
 );
 
